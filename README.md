@@ -1,11 +1,12 @@
-# RNN
-
+## GRU_vs_RNN_Classification
 Model | Loss | Accuracy | 
 --- | --- | --- |
-RNN |2 |  2|
+RNN |0.0644 |  0.9800|
+GRU | 0.0454 | 0.9870|
 
-
-Input Image | Aligned Face | Input Image | Aligned Face  |
---- | --- | --- | --- |
-![model arch](input/trump.jpg) | ![model arch](output/trump_0.jpg) | ![model arch](input/scarlett-johansson.jpeg) | ![model arch](output/scarlett-johansson_0.jpg) |
+## RNN_vs_GRU_Regressor
+Model | Loss |
+--- | --- | --- |
+RNN | 0.0013|
+GRU | 0.0012|
 
