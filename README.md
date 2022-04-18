@@ -1,8 +1,9 @@
 # RNN
 
-Input Image | Aligned Face | Aligned Face | Aligned Face  |
+Model | Loss | Accuracy | 
 --- | --- | --- | --- |
-'loss' | ! | ![model arch](output/friends_2.jpg) | ![model arch](output/friends_1.jpg) |
+RNN | |  |
+GRU | 
 
 Input Image | Aligned Face | Input Image | Aligned Face  |
 --- | --- | --- | --- |
