@@ -2,7 +2,7 @@
 
 Input Image | Aligned Face | Aligned Face | Aligned Face  |
 --- | --- | --- | --- |
-!'loss' | ! | ![model arch](output/friends_2.jpg) | ![model arch](output/friends_1.jpg) |
+'loss' | ! | ![model arch](output/friends_2.jpg) | ![model arch](output/friends_1.jpg) |
 
 Input Image | Aligned Face | Input Image | Aligned Face  |
 --- | --- | --- | --- |
