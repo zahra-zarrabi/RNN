@@ -3,7 +3,7 @@
 Model | Loss | Accuracy | 
 --- | --- | --- | --- |
 RNN | |  |
-GRU | 
+
 
 Input Image | Aligned Face | Input Image | Aligned Face  |
 --- | --- | --- | --- |
