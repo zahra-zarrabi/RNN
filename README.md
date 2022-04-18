@@ -1,8 +1,8 @@
 # RNN
 
 Model | Loss | Accuracy | 
---- | --- | --- | --- |
-RNN | |  |
+--- | --- | --- |
+RNN |2 |  2|
 
 
 Input Image | Aligned Face | Input Image | Aligned Face  |
